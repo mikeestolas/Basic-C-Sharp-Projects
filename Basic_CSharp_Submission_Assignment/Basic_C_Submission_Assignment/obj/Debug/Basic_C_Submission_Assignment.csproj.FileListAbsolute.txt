@@ -1,0 +1,6 @@
+C:\Users\Admin\OneDrive - Sysco Corporation\Desktop\Basic_C#_Programs\Mike\HelloWorld\Basic_C_Submission_Assignment\Basic_C_Submission_Assignment\obj\Debug\Basic_C_Submission_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Sysco Corporation\Desktop\Basic_C#_Programs\Mike\HelloWorld\Basic_C_Submission_Assignment\Basic_C_Submission_Assignment\bin\Debug\Basic_C_Submission_Assignment.exe.config
+C:\Users\Admin\OneDrive - Sysco Corporation\Desktop\Basic_C#_Programs\Mike\HelloWorld\Basic_C_Submission_Assignment\Basic_C_Submission_Assignment\bin\Debug\Basic_C_Submission_Assignment.exe
+C:\Users\Admin\OneDrive - Sysco Corporation\Desktop\Basic_C#_Programs\Mike\HelloWorld\Basic_C_Submission_Assignment\Basic_C_Submission_Assignment\bin\Debug\Basic_C_Submission_Assignment.pdb
+C:\Users\Admin\OneDrive - Sysco Corporation\Desktop\Basic_C#_Programs\Mike\HelloWorld\Basic_C_Submission_Assignment\Basic_C_Submission_Assignment\obj\Debug\Basic_C_Submission_Assignment.exe
+C:\Users\Admin\OneDrive - Sysco Corporation\Desktop\Basic_C#_Programs\Mike\HelloWorld\Basic_C_Submission_Assignment\Basic_C_Submission_Assignment\obj\Debug\Basic_C_Submission_Assignment.pdb
