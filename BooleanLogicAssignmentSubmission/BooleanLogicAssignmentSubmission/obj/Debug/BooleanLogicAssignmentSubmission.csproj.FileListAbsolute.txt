@@ -1,0 +1,6 @@
+C:\Users\Admin\OneDrive - Sysco Corporation\Desktop\Basic_C#_Programs\Mike\BooleanLogicAssignmentSubmission\BooleanLogicAssignmentSubmission\bin\Debug\BooleanLogicAssignmentSubmission.exe.config
+C:\Users\Admin\OneDrive - Sysco Corporation\Desktop\Basic_C#_Programs\Mike\BooleanLogicAssignmentSubmission\BooleanLogicAssignmentSubmission\bin\Debug\BooleanLogicAssignmentSubmission.exe
+C:\Users\Admin\OneDrive - Sysco Corporation\Desktop\Basic_C#_Programs\Mike\BooleanLogicAssignmentSubmission\BooleanLogicAssignmentSubmission\bin\Debug\BooleanLogicAssignmentSubmission.pdb
+C:\Users\Admin\OneDrive - Sysco Corporation\Desktop\Basic_C#_Programs\Mike\BooleanLogicAssignmentSubmission\BooleanLogicAssignmentSubmission\obj\Debug\BooleanLogicAssignmentSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Sysco Corporation\Desktop\Basic_C#_Programs\Mike\BooleanLogicAssignmentSubmission\BooleanLogicAssignmentSubmission\obj\Debug\BooleanLogicAssignmentSubmission.exe
+C:\Users\Admin\OneDrive - Sysco Corporation\Desktop\Basic_C#_Programs\Mike\BooleanLogicAssignmentSubmission\BooleanLogicAssignmentSubmission\obj\Debug\BooleanLogicAssignmentSubmission.pdb
