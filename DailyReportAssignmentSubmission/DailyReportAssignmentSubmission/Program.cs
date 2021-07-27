@@ -12,18 +12,18 @@ namespace DailyReportAssignmentSubmission
         {
             Console.WriteLine("Academy of Learning Career College \nStudent Daily Report");
             Console.WriteLine("What course are you in? ");
-            String coursename = Console.ReadLine();
+            string coursename = Console.ReadLine();
             Console.WriteLine("What page number?");
-            String pagenum =Convert.ToInt32(Console.ReadLine());
+            int pagenum =Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Do you need help with anything? Please answer “true” or “false”.");
-            String help = Convert.ToBoolean(Console.ReadLine());
+            bool help = Convert.ToBoolean(Console.ReadLine());
             Console.ReadLine();
             Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics.");
-            String experience = Console.ReadLine();
+            string experience = Console.ReadLine();
             Console.WriteLine("Is there any other feedback you’d like to provide? Please be specific.");
             string feedback = Console.ReadLine();
             Console.WriteLine("How many hours did you study today?");
-            String hours = Convert.ToInt32(Console.ReadLine());
+            int hours = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Thank you for your answers. An Instructor will respond shortly. Have a great day!");
             Console.ReadLine();
         }
